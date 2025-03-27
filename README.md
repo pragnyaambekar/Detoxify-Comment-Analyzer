@@ -14,7 +14,7 @@ Customizable Thresholds: Adjustable sensitivity for toxicity classification
 
 **Installation**
 bashCopy# Clone the repository
-git clone https://github.com/yourusername/detoxify-comment-analyzer.git
+git clone https://github.com/pragnyaambekar/Detoxify-Comment-Analyzer.git
 cd detoxify-comment-analyzer
 
 # Install required packages
